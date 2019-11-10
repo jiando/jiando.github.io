@@ -14,12 +14,12 @@ url: "http://woaielf.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-# twitter_username: gaohaoyang126
-# facebook_username: gaohaoyang.water
-github_username:  woaielf
-email: zoemindmap@outlook.com
+# twitter_username: jiando2020
+# facebook_username: zhang.jiando
+github_username:  jiando
+email: zhjd2010@qq.com
 # weibo_username: 3115521wh
-zhihu_username: woaielf
+zhihu_username: jiando
 # linkedIn_username: gaohaoyang
 # dribbble_username:
 
@@ -35,8 +35,8 @@ description_footer: 「数据科学思维导图笔记」
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
-# google_analytics_id: UA-72449510-4 # google 分析追踪id
+baidu_tongji_id: af28c231ce3150fce29697b1a2f528db
+google_analytics_id: UA-151961086-1 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
