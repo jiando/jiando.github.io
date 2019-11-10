@@ -7,7 +7,7 @@
 
 # Site settings
 title: JDO | 
-brief-intro: 不会测试的人工智能不是好金融分析师
+brief-intro: 不会自动化的人工智能不是好金融分析师
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jiando.github.io" # the base hostname & protocol for your site
 
