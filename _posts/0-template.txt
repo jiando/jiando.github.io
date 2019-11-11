@@ -3,7 +3,7 @@ layout: post
 title: "【笔记】
 categories: 编程之魅
 tags: 
-author: ZOE
+author: JDO
 ---
 
 * content

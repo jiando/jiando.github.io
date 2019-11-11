@@ -3,7 +3,7 @@ layout: post
 title: "【笔记】17 幅思维导图：Python 核心知识体系-20180410第三次更新"
 categories: 编程之魅
 tags: python
-author: ZOE
+author: JDO
 ---
 
 * content
@@ -81,7 +81,7 @@ P.S.由于平台对图片有一定程度的压缩，**建议下载高清原图�
 
 
 ## ▍6.如何下载
-两种方式均可获得高清原图及 PDF 版下载链接（公众号「数林觅风」ID：zoemindmap）：
+两种方式均可获得高清原图及 PDF 版下载链接（公众号「数林觅风」ID：JDOmindmap）：
 
 ❥ 公众号后台回复「python」
 
